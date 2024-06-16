@@ -6,3 +6,6 @@ Below is an image of the github logo.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
